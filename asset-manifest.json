@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/corona19/static/css/main.c5a4adb0.chunk.css",
+    "main.js": "/corona19/static/js/main.2fb47097.chunk.js",
+    "main.js.map": "/corona19/static/js/main.2fb47097.chunk.js.map",
+    "runtime-main.js": "/corona19/static/js/runtime-main.29ef93d4.js",
+    "runtime-main.js.map": "/corona19/static/js/runtime-main.29ef93d4.js.map",
+    "static/js/2.b88b0685.chunk.js": "/corona19/static/js/2.b88b0685.chunk.js",
+    "static/js/2.b88b0685.chunk.js.map": "/corona19/static/js/2.b88b0685.chunk.js.map",
+    "index.html": "/corona19/index.html",
+    "precache-manifest.1275391fc6c4e522099ec8ecc0d077e0.js": "/corona19/precache-manifest.1275391fc6c4e522099ec8ecc0d077e0.js",
+    "service-worker.js": "/corona19/service-worker.js",
+    "static/css/main.c5a4adb0.chunk.css.map": "/corona19/static/css/main.c5a4adb0.chunk.css.map",
+    "static/js/2.b88b0685.chunk.js.LICENSE.txt": "/corona19/static/js/2.b88b0685.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29ef93d4.js",
+    "static/js/2.b88b0685.chunk.js",
+    "static/css/main.c5a4adb0.chunk.css",
+    "static/js/main.2fb47097.chunk.js"
+  ]
+}
